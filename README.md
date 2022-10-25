@@ -1,2 +1,0 @@
-# die.ego
-github page
